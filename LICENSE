@@ -1,0 +1,60 @@
+本リポジトリのライセンスについて
+================================
+
+# このリポジトリの構成要素は2つに分かれます
+
+## 1. メタデータ・スクリプト・ドキュメント
+- 対象: logos.yaml, README.md, scripts/*, sources/*
+- ライセンス: MIT License (株式会社Craval)
+
+## 2. ロゴ画像 (logos/**/*.svg)
+- 対象: 各SVGファイル
+- ライセンスは個別の出所に準拠（logos.yaml の license フィールド参照）
+  - cc0:                Simple Icons / gilbarbara/logos 由来、CC0 / Public Domain
+  - trademark-fair-use: 各社の商標。言及目的の公正使用 (Fair Use) に限り使用可
+  - press-kit:          各社公式プレスキットの規約に準拠
+  - own:                株式会社Cravalが保有
+
+商標は各保有者に帰属します。本リポジトリは便宜上ロゴを集約していますが、
+ロゴ自体の権利を主張するものではありません。
+
+## 公正使用 (Fair Use) の範囲
+
+以下の用途は商標法上の公正使用に該当する可能性が高いと考えられます:
+- サービスの言及・解説・比較記事における識別目的での使用
+- システム連携の説明図におけるアイコンとしての使用
+- 顧客事例・実績紹介における言及目的での使用
+
+以下は NG または要事前確認です:
+- ロゴの改変・色変更・歪め
+- 自社サービスのスポンサー/提携を示唆する表現
+- ロゴを主役にした広告での使用
+
+## 削除依頼
+
+権利者から削除依頼を受けた場合は速やかに対応します。
+Issue または yosuke-kato@craval.jp までご連絡ください。
+
+---
+
+# MIT License (メタデータ・スクリプト部分)
+
+Copyright (c) 2026 株式会社Craval
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

@@ -1,0 +1,1184 @@
+# craval-inc/saas-logos
+#
+# 全ロゴのメタデータ。記事図解（D2/SVG等）から参照する際の単一の真実の源。
+#
+# license:
+#   - cc0:                 CC0 / Public Domain（Simple Icons 等）
+#   - trademark-fair-use:  各社商標。言及目的の公正使用に限り使用可
+#   - press-kit:           各社公式プレスキットに準拠
+#
+# cdn_url の生成規則:
+#   https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/{file}
+
+# ============================================================
+# ec-platform : BtoB / BtoC ECプラットフォーム
+# ============================================================
+- slug: bcart
+  name: Bカート
+  category: ec-platform
+  vendor: 株式会社Dai
+  color: "#005BAC"
+  source: https://bcart.jp/
+  press_kit: https://bcart.jp/company/
+  license: trademark-fair-use
+  file: logos/ec-platform/bcart.svg
+
+- slug: ecbeing
+  name: ecbeing
+  category: ec-platform
+  vendor: 株式会社ecbeing
+  color: "#E60012"
+  source: https://www.ecbeing.net/
+  license: trademark-fair-use
+  file: logos/ec-platform/ecbeing.svg
+
+- slug: shopify
+  name: Shopify
+  category: ec-platform
+  vendor: Shopify Inc.
+  color: "#7AB55C"
+  source: https://www.shopify.com/
+  license: cc0
+  file: logos/ec-platform/shopify.svg
+
+- slug: shopify-plus
+  name: Shopify Plus
+  category: ec-platform
+  vendor: Shopify Inc.
+  color: "#5A8E3C"
+  source: https://www.shopify.com/plus
+  license: trademark-fair-use
+  file: logos/ec-platform/shopify-plus.svg
+
+- slug: ecforce
+  name: ecforce
+  category: ec-platform
+  vendor: 株式会社SUPER STUDIO
+  color: "#1C1C1C"
+  source: https://ec-force.com/
+  license: trademark-fair-use
+  file: logos/ec-platform/ecforce.svg
+
+- slug: makeshop
+  name: MakeShop
+  category: ec-platform
+  vendor: GMOメイクショップ株式会社
+  color: "#FF6600"
+  source: https://www.makeshop.jp/
+  license: trademark-fair-use
+  file: logos/ec-platform/makeshop.svg
+
+- slug: futureshop
+  name: futureshop
+  category: ec-platform
+  vendor: 株式会社フューチャーショップ
+  color: "#1E88E5"
+  source: https://www.future-shop.jp/
+  license: trademark-fair-use
+  file: logos/ec-platform/futureshop.svg
+
+- slug: magento
+  name: Adobe Commerce (Magento)
+  category: ec-platform
+  vendor: Adobe Inc.
+  color: "#EE672F"
+  source: https://business.adobe.com/products/magento/magento-commerce.html
+  license: cc0
+  file: logos/ec-platform/magento.svg
+
+- slug: ec-cube
+  name: EC-CUBE
+  category: ec-platform
+  vendor: 株式会社イーシーキューブ
+  color: "#FF7700"
+  source: https://www.ec-cube.net/
+  license: trademark-fair-use
+  file: logos/ec-platform/ec-cube.svg
+
+- slug: aladdin-ec
+  name: アラジンEC
+  category: ec-platform
+  vendor: 株式会社アイル
+  color: "#00529F"
+  source: https://www.aladdin-ec.jp/
+  license: trademark-fair-use
+  file: logos/ec-platform/aladdin-ec.svg
+
+- slug: w2-unified
+  name: W2 Unified
+  category: ec-platform
+  vendor: W2株式会社
+  color: "#0066CC"
+  source: https://www.w2solution.co.jp/
+  license: trademark-fair-use
+  file: logos/ec-platform/w2-unified.svg
+
+- slug: si-web-shopping
+  name: SI Web Shopping
+  category: ec-platform
+  vendor: 株式会社SIシステム
+  color: "#003366"
+  source: https://www.si-portal.jp/products/web-shopping/
+  license: trademark-fair-use
+  file: logos/ec-platform/si-web-shopping.svg
+
+- slug: gmo-cloud-ec
+  name: GMOクラウドEC
+  category: ec-platform
+  vendor: GMOメイクショップ株式会社
+  color: "#FF6600"
+  source: https://gmo-cloud-ec.jp/
+  license: trademark-fair-use
+  file: logos/ec-platform/gmo-cloud-ec.svg
+
+- slug: bee-cross-border
+  name: Bee Cross Border
+  category: ec-platform
+  vendor: 株式会社Bee
+  color: "#FFA500"
+  source: https://bee-crossborder.com/
+  license: trademark-fair-use
+  file: logos/ec-platform/bee-cross-border.svg
+
+- slug: orange-ec
+  name: Orange EC
+  category: ec-platform
+  vendor: エスアイアソシエイツ株式会社
+  color: "#FF6600"
+  source: https://www.orange-operation.jp/orange-ec/
+  license: trademark-fair-use
+  file: logos/ec-platform/orange-ec.svg
+
+# ============================================================
+# sales-management : 販売管理ソフト
+# ============================================================
+- slug: yayoi-hanbai
+  name: 弥生販売
+  category: sales-management
+  vendor: 弥生株式会社
+  color: "#E60012"
+  source: https://www.yayoi-kk.co.jp/products/hanbai/
+  press_kit: https://www.yayoi-kk.co.jp/company/logo/
+  license: trademark-fair-use
+  file: logos/sales-management/yayoi-hanbai.svg
+
+- slug: shokura-bugyo
+  name: 商蔵奉行クラウド
+  category: sales-management
+  vendor: 株式会社オービックビジネスコンサルタント (OBC)
+  color: "#005BAC"
+  source: https://www.obc.co.jp/bugyo-cloud/akikura
+  press_kit: https://www.obc.co.jp/about/logo
+  license: trademark-fair-use
+  file: logos/sales-management/shokura-bugyo.svg
+
+- slug: sho-bugyo
+  name: 商奉行
+  category: sales-management
+  vendor: 株式会社オービックビジネスコンサルタント (OBC)
+  color: "#005BAC"
+  source: https://www.obc.co.jp/bugyo-j/akinai-j
+  license: trademark-fair-use
+  file: logos/sales-management/sho-bugyo.svg
+
+- slug: kura-bugyo
+  name: 蔵奉行
+  category: sales-management
+  vendor: 株式会社オービックビジネスコンサルタント (OBC)
+  color: "#005BAC"
+  source: https://www.obc.co.jp/bugyo/kura
+  license: trademark-fair-use
+  file: logos/sales-management/kura-bugyo.svg
+
+- slug: kanjyo-bugyo
+  name: 勘定奉行
+  category: sales-management
+  vendor: 株式会社オービックビジネスコンサルタント (OBC)
+  color: "#005BAC"
+  source: https://www.obc.co.jp/bugyo-cloud/kanjo
+  license: trademark-fair-use
+  file: logos/sales-management/kanjyo-bugyo.svg
+
+- slug: hanbai-daijin
+  name: 販売大臣
+  category: sales-management
+  vendor: 応研株式会社
+  color: "#0066B3"
+  source: https://www.ohken.co.jp/daijin_top/hanbai/
+  license: trademark-fair-use
+  file: logos/sales-management/hanbai-daijin.svg
+
+- slug: hanbaio
+  name: 販売王
+  category: sales-management
+  vendor: ソリマチ株式会社
+  color: "#005BAC"
+  source: https://www.sorimachi.co.jp/products/hanbai/
+  license: trademark-fair-use
+  file: logos/sales-management/hanbaio.svg
+
+- slug: pca-shokon
+  name: PCA商魂・商管
+  category: sales-management
+  vendor: ピー・シー・エー株式会社
+  color: "#E60012"
+  source: https://pca.jp/area_product/shoukon.html
+  license: trademark-fair-use
+  file: logos/sales-management/pca-shokon.svg
+
+- slug: smile-v
+  name: SMILE V
+  category: sales-management
+  vendor: 株式会社大塚商会
+  color: "#FFA500"
+  source: https://www.ostech.co.jp/product/smile-v/
+  license: trademark-fair-use
+  file: logos/sales-management/smile-v.svg
+
+- slug: super-cocktail
+  name: スーパーカクテルCore
+  category: sales-management
+  vendor: 内田洋行ITソリューションズ
+  color: "#003366"
+  source: https://www.uchida-it.co.jp/uitec/products/scc/
+  license: trademark-fair-use
+  file: logos/sales-management/super-cocktail.svg
+
+- slug: aladdin-office
+  name: アラジンオフィス
+  category: sales-management
+  vendor: 株式会社アイル
+  color: "#00529F"
+  source: https://aladdin-office.com/
+  license: trademark-fair-use
+  file: logos/sales-management/aladdin-office.svg
+
+- slug: as-hanbai
+  name: A's販売
+  category: sales-management
+  vendor: 株式会社アクト
+  color: "#0066CC"
+  source: https://www.act-net.co.jp/
+  license: trademark-fair-use
+  file: logos/sales-management/as-hanbai.svg
+
+- slug: bcpos
+  name: BCPOS
+  category: sales-management
+  vendor: 株式会社ビジコム
+  color: "#0066B3"
+  source: https://www.bcpos.jp/
+  license: trademark-fair-use
+  file: logos/sales-management/bcpos.svg
+
+# ============================================================
+# erp-bcart-app : Bカート公式ERP / 販売管理アプリ
+# ============================================================
+- slug: goqsystem
+  name: GoQSystem
+  category: erp-bcart-app
+  vendor: 株式会社GoQSystem
+  color: "#0099CC"
+  source: https://goqsystem.com/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/goqsystem.svg
+
+- slug: btone
+  name: Btone（ビートーン）
+  category: erp-bcart-app
+  vendor: 株式会社ソトバコ
+  color: "#1C1C1C"
+  source: https://btone.jp/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/btone.svg
+
+- slug: cross-mall
+  name: CROSS MALL
+  category: erp-bcart-app
+  vendor: 株式会社ウイングス・コンサルティング
+  color: "#FF6600"
+  source: https://www.cross-mall.jp/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/cross-mall.svg
+
+- slug: banking-erp
+  name: BANKING ERP
+  category: erp-bcart-app
+  vendor: 株式会社スマイルワークス
+  color: "#003366"
+  source: https://www.smile-works.co.jp/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/banking-erp.svg
+
+- slug: cammacs
+  name: キャムマックス
+  category: erp-bcart-app
+  vendor: 株式会社キャム
+  color: "#005BAC"
+  source: https://cammacs.jp/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/cammacs.svg
+
+- slug: s-flow
+  name: s-flow
+  category: erp-bcart-app
+  vendor: 株式会社エスフロー
+  color: "#0099CC"
+  source: https://www.s-flow.co.jp/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/s-flow.svg
+
+- slug: smileworks
+  name: SmileWorks
+  category: erp-bcart-app
+  vendor: 株式会社スマイルワークス
+  color: "#FFA500"
+  source: https://www.smile-works.co.jp/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/smileworks.svg
+
+- slug: onescloset
+  name: One'sCloset
+  category: erp-bcart-app
+  vendor: 株式会社フレイトリンクスジャパン
+  color: "#000000"
+  source: https://www.freightlinks.co.jp/onescloset/
+  license: trademark-fair-use
+  file: logos/erp-bcart-app/onescloset.svg
+
+# ============================================================
+# eai : データ連携・EAI / ノーコード自動化
+# ============================================================
+- slug: ec-connector
+  name: ECコネクター
+  category: eai
+  vendor: 株式会社久
+  color: "#0066CC"
+  source: https://www.ec-connector.com/
+  license: trademark-fair-use
+  file: logos/eai/ec-connector.svg
+
+- slug: yoom
+  name: Yoom
+  category: eai
+  vendor: Yoom株式会社
+  color: "#FFC107"
+  source: https://yoom.fun/
+  license: trademark-fair-use
+  file: logos/eai/yoom.svg
+
+- slug: cdata-arc
+  name: CData Arc
+  category: eai
+  vendor: CData Software Japan
+  color: "#0085CA"
+  source: https://www.cdata.com/jp/arc/
+  license: trademark-fair-use
+  file: logos/eai/cdata-arc.svg
+
+- slug: teps
+  name: TēPs（テープス）
+  category: eai
+  vendor: テープス株式会社
+  color: "#00C853"
+  source: https://www.teps.jp/
+  license: trademark-fair-use
+  file: logos/eai/teps.svg
+
+- slug: tetlink
+  name: テットリンク
+  category: eai
+  vendor: 株式会社テットラスト
+  color: "#0066CC"
+  source: https://tetlink.com/
+  license: trademark-fair-use
+  file: logos/eai/tetlink.svg
+
+- slug: zapier
+  name: Zapier
+  category: eai
+  vendor: Zapier Inc.
+  color: "#FF4A00"
+  source: https://zapier.com/
+  license: cc0
+  file: logos/eai/zapier.svg
+
+- slug: make
+  name: Make
+  category: eai
+  vendor: Celonis SE
+  color: "#6D00CC"
+  source: https://www.make.com/
+  license: cc0
+  file: logos/eai/make.svg
+
+- slug: workato
+  name: Workato
+  category: eai
+  vendor: Workato Inc.
+  color: "#E94B35"
+  source: https://www.workato.com/
+  license: trademark-fair-use
+  file: logos/eai/workato.svg
+
+# ============================================================
+# inventory-wms : 在庫管理・WMS（倉庫管理）
+# ============================================================
+- slug: next-engine
+  name: ネクストエンジン
+  category: inventory-wms
+  vendor: NE株式会社
+  color: "#E60012"
+  source: https://next-engine.net/
+  press_kit: https://next-engine.net/about/logo/
+  license: trademark-fair-use
+  file: logos/inventory-wms/next-engine.svg
+
+- slug: logiless
+  name: LOGILESS（ロジレス）
+  category: inventory-wms
+  vendor: 株式会社ロジレス
+  color: "#0099CC"
+  source: https://www.logiless.com/
+  license: trademark-fair-use
+  file: logos/inventory-wms/logiless.svg
+
+- slug: logizard-zero
+  name: ロジザードZERO
+  category: inventory-wms
+  vendor: ロジザード株式会社
+  color: "#0066B3"
+  source: https://www.logizard-zero.com/
+  license: trademark-fair-use
+  file: logos/inventory-wms/logizard-zero.svg
+
+- slug: logimopro
+  name: ロジモプロ
+  category: inventory-wms
+  vendor: 株式会社清長
+  color: "#FF6600"
+  source: https://logimopro.com/
+  license: trademark-fair-use
+  file: logos/inventory-wms/logimopro.svg
+
+- slug: logiec
+  name: logiec（ロジーク）
+  category: inventory-wms
+  vendor: 株式会社はぴロジ
+  color: "#0099CC"
+  source: https://logiec.jp/
+  license: trademark-fair-use
+  file: logos/inventory-wms/logiec.svg
+
+- slug: commercerobo
+  name: Commercerobo
+  category: inventory-wms
+  vendor: 株式会社コマースロボティクス
+  color: "#003366"
+  source: https://www.commercerobo.com/
+  license: trademark-fair-use
+  file: logos/inventory-wms/commercerobo.svg
+
+- slug: rakuraku-zaiko
+  name: らくらく在庫
+  category: inventory-wms
+  vendor: グリニッジ株式会社
+  color: "#00A651"
+  source: https://www.greenwich.co.jp/rakuraku-zaiko/
+  license: trademark-fair-use
+  file: logos/inventory-wms/rakuraku-zaiko.svg
+
+- slug: assist-tencho
+  name: アシスト店長
+  category: inventory-wms
+  vendor: 株式会社ハングリード
+  color: "#FF6600"
+  source: https://www.assist-tencho.jp/
+  license: trademark-fair-use
+  file: logos/inventory-wms/assist-tencho.svg
+
+- slug: tempostar
+  name: TEMPOSTAR
+  category: inventory-wms
+  vendor: SAVAWAY株式会社
+  color: "#005BAC"
+  source: https://commerce-star.com/
+  license: trademark-fair-use
+  file: logos/inventory-wms/tempostar.svg
+
+# ============================================================
+# pos : POS・レジ
+# ============================================================
+- slug: smaregi
+  name: スマレジ
+  category: pos
+  vendor: 株式会社スマレジ
+  color: "#00A0E9"
+  source: https://smaregi.jp/
+  press_kit: https://corp.smaregi.jp/material/
+  license: trademark-fair-use
+  file: logos/pos/smaregi.svg
+
+- slug: airregi
+  name: Airレジ
+  category: pos
+  vendor: 株式会社リクルート
+  color: "#FF6F61"
+  source: https://airregi.jp/
+  license: trademark-fair-use
+  file: logos/pos/airregi.svg
+
+- slug: ubiregi
+  name: ユビレジ
+  category: pos
+  vendor: 株式会社ユビレジ
+  color: "#FF6600"
+  source: https://ubiregi.com/
+  license: trademark-fair-use
+  file: logos/pos/ubiregi.svg
+
+# ============================================================
+# payment : 決済
+# ============================================================
+- slug: np-kakebarai
+  name: NP掛け払い
+  category: payment
+  vendor: 株式会社ネットプロテクションズ
+  color: "#FF6600"
+  source: https://np-kakebarai.com/
+  license: trademark-fair-use
+  file: logos/payment/np-kakebarai.svg
+
+- slug: paid
+  name: Paid（ペイド）
+  category: payment
+  vendor: 株式会社ラクーンフィナンシャル
+  color: "#E60012"
+  source: https://paid.jp/
+  license: trademark-fair-use
+  file: logos/payment/paid.svg
+
+- slug: bcart-kakebarai
+  name: Bカート掛け払い
+  category: payment
+  vendor: マネーフォワードケッサイ株式会社
+  color: "#005BAC"
+  source: https://mfkessai.co.jp/
+  license: trademark-fair-use
+  file: logos/payment/bcart-kakebarai.svg
+
+- slug: kuroneko-kakebarai
+  name: クロネコ掛け払い
+  category: payment
+  vendor: ヤマトクレジットファイナンス株式会社
+  color: "#000000"
+  source: https://business.kuronekoyamato.co.jp/business/payment/kakebarai/
+  license: trademark-fair-use
+  file: logos/payment/kuroneko-kakebarai.svg
+
+- slug: bcart-creca
+  name: Bカートクレカ決済
+  category: payment
+  vendor: 株式会社ゼウス
+  color: "#005BAC"
+  source: https://www.cardservice.co.jp/
+  license: trademark-fair-use
+  file: logos/payment/bcart-creca.svg
+
+- slug: paygent
+  name: PAYGENT
+  category: payment
+  vendor: 株式会社ペイジェント
+  color: "#0066CC"
+  source: https://www.paygent.co.jp/
+  license: trademark-fair-use
+  file: logos/payment/paygent.svg
+
+- slug: kuroneko-webcollect
+  name: クロネコwebコレクト
+  category: payment
+  vendor: ヤマト運輸株式会社
+  color: "#000000"
+  source: https://business.kuronekoyamato.co.jp/business/payment/web/
+  license: trademark-fair-use
+  file: logos/payment/kuroneko-webcollect.svg
+
+- slug: stripe
+  name: Stripe
+  category: payment
+  vendor: Stripe Inc.
+  color: "#635BFF"
+  source: https://stripe.com/jp
+  license: cc0
+  file: logos/payment/stripe.svg
+
+- slug: paypal
+  name: PayPal
+  category: payment
+  vendor: PayPal Holdings
+  color: "#003087"
+  source: https://www.paypal.com/
+  license: cc0
+  file: logos/payment/paypal.svg
+
+- slug: gmo-pg
+  name: GMOペイメントゲートウェイ
+  category: payment
+  vendor: GMOペイメントゲートウェイ株式会社
+  color: "#003366"
+  source: https://www.gmo-pg.com/
+  license: trademark-fair-use
+  file: logos/payment/gmo-pg.svg
+
+- slug: sbpayment
+  name: SBペイメントサービス
+  category: payment
+  vendor: SBペイメントサービス株式会社
+  color: "#FF6600"
+  source: https://www.sbpayment.jp/
+  license: trademark-fair-use
+  file: logos/payment/sbpayment.svg
+
+- slug: veritrans
+  name: ベリトランス
+  category: payment
+  vendor: ベリトランス株式会社
+  color: "#005BAC"
+  source: https://www.veritrans.co.jp/
+  license: trademark-fair-use
+  file: logos/payment/veritrans.svg
+
+- slug: paypay
+  name: PayPay
+  category: payment
+  vendor: PayPay株式会社
+  color: "#FF0033"
+  source: https://paypay.ne.jp/
+  license: trademark-fair-use
+  file: logos/payment/paypay.svg
+
+- slug: rakuten-pay
+  name: 楽天ペイ
+  category: payment
+  vendor: 楽天ペイメント株式会社
+  color: "#BF0000"
+  source: https://pay.rakuten.co.jp/
+  license: trademark-fair-use
+  file: logos/payment/rakuten-pay.svg
+
+- slug: amazon-pay
+  name: Amazon Pay
+  category: payment
+  vendor: Amazon.com Inc.
+  color: "#FF9900"
+  source: https://pay.amazon.co.jp/
+  license: cc0
+  file: logos/payment/amazon-pay.svg
+
+# ============================================================
+# logistics : 物流・配送（送り状発行）
+# ============================================================
+- slug: yamato-b2cloud
+  name: ヤマトB2クラウド
+  category: logistics
+  vendor: ヤマト運輸株式会社
+  color: "#000000"
+  source: https://bmypage.kuronekoyamato.co.jp/bmypage/servlet/jp.co.kuronekoyamato.wur.bm.servlet.BMTH1010
+  license: trademark-fair-use
+  file: logos/logistics/yamato-b2cloud.svg
+
+- slug: yamato
+  name: ヤマト運輸
+  category: logistics
+  vendor: ヤマト運輸株式会社
+  color: "#FFCB05"
+  source: https://www.kuronekoyamato.co.jp/
+  license: trademark-fair-use
+  file: logos/logistics/yamato.svg
+
+- slug: yu-print-r
+  name: ゆうプリR
+  category: logistics
+  vendor: 日本郵便株式会社
+  color: "#DA1F26"
+  source: https://www.post.japanpost.jp/yu_print/
+  license: trademark-fair-use
+  file: logos/logistics/yu-print-r.svg
+
+- slug: sagawa-e-hiden
+  name: e飛伝Ⅲ
+  category: logistics
+  vendor: 佐川急便株式会社
+  color: "#005BAC"
+  source: https://www2.sagawa-exp.co.jp/service/sendingsupport/
+  license: trademark-fair-use
+  file: logos/logistics/sagawa-e-hiden.svg
+
+- slug: japan-post
+  name: 日本郵便
+  category: logistics
+  vendor: 日本郵便株式会社
+  color: "#DA1F26"
+  source: https://www.post.japanpost.jp/
+  license: trademark-fair-use
+  file: logos/logistics/japan-post.svg
+
+# ============================================================
+# groupware : グループウェア・コミュニケーション基盤
+# ============================================================
+- slug: kintone
+  name: kintone
+  category: groupware
+  vendor: サイボウズ株式会社
+  color: "#00A0E9"
+  source: https://kintone.cybozu.co.jp/
+  press_kit: https://kintone.cybozu.co.jp/material/
+  license: trademark-fair-use
+  file: logos/groupware/kintone.svg
+
+- slug: cybozu-office
+  name: サイボウズOffice
+  category: groupware
+  vendor: サイボウズ株式会社
+  color: "#3E6EB4"
+  source: https://office.cybozu.co.jp/
+  license: trademark-fair-use
+  file: logos/groupware/cybozu-office.svg
+
+- slug: garoon
+  name: Garoon
+  category: groupware
+  vendor: サイボウズ株式会社
+  color: "#005BAC"
+  source: https://garoon.cybozu.co.jp/
+  license: trademark-fair-use
+  file: logos/groupware/garoon.svg
+
+- slug: desknets-neo
+  name: desknet's NEO
+  category: groupware
+  vendor: 株式会社ネオジャパン
+  color: "#0066B3"
+  source: https://www.desknets.com/
+  license: trademark-fair-use
+  file: logos/groupware/desknets-neo.svg
+
+- slug: microsoft-365
+  name: Microsoft 365
+  category: groupware
+  vendor: Microsoft Corporation
+  color: "#D83B01"
+  source: https://www.microsoft.com/microsoft-365
+  license: cc0
+  file: logos/groupware/microsoft-365.svg
+
+- slug: ms-teams
+  name: Microsoft Teams
+  category: groupware
+  vendor: Microsoft Corporation
+  color: "#6264A7"
+  source: https://www.microsoft.com/microsoft-teams
+  license: cc0
+  file: logos/groupware/ms-teams.svg
+
+- slug: google-workspace
+  name: Google Workspace
+  category: groupware
+  vendor: Google LLC
+  color: "#4285F4"
+  source: https://workspace.google.com/
+  license: cc0
+  file: logos/groupware/google-workspace.svg
+
+- slug: notion
+  name: Notion
+  category: groupware
+  vendor: Notion Labs Inc.
+  color: "#000000"
+  source: https://www.notion.so/
+  license: cc0
+  file: logos/groupware/notion.svg
+
+- slug: slack
+  name: Slack
+  category: groupware
+  vendor: Slack Technologies (Salesforce)
+  color: "#4A154B"
+  source: https://slack.com/
+  license: cc0
+  file: logos/groupware/slack.svg
+
+- slug: chatwork
+  name: Chatwork
+  category: groupware
+  vendor: Chatwork株式会社
+  color: "#1F2D3D"
+  source: https://go.chatwork.com/
+  license: trademark-fair-use
+  file: logos/groupware/chatwork.svg
+
+- slug: zoom
+  name: Zoom
+  category: groupware
+  vendor: Zoom Video Communications
+  color: "#2D8CFF"
+  source: https://zoom.us/
+  license: cc0
+  file: logos/groupware/zoom.svg
+
+# ============================================================
+# crm-ma : CRM / MA / SFA
+# ============================================================
+- slug: hubspot
+  name: HubSpot
+  category: crm-ma
+  vendor: HubSpot Inc.
+  color: "#FF7A59"
+  source: https://www.hubspot.com/
+  license: cc0
+  file: logos/crm-ma/hubspot.svg
+
+- slug: salesforce
+  name: Salesforce
+  category: crm-ma
+  vendor: Salesforce Inc.
+  color: "#00A1E0"
+  source: https://www.salesforce.com/
+  license: cc0
+  file: logos/crm-ma/salesforce.svg
+
+- slug: sansan
+  name: Sansan
+  category: crm-ma
+  vendor: Sansan株式会社
+  color: "#E60012"
+  source: https://jp.sansan.com/
+  press_kit: https://jp.corp-sansan.com/news/material/
+  license: trademark-fair-use
+  file: logos/crm-ma/sansan.svg
+
+- slug: eight
+  name: Eight
+  category: crm-ma
+  vendor: Sansan株式会社
+  color: "#E60012"
+  source: https://8card.net/
+  license: trademark-fair-use
+  file: logos/crm-ma/eight.svg
+
+- slug: marketo
+  name: Marketo Engage
+  category: crm-ma
+  vendor: Adobe Inc.
+  color: "#5C4C9F"
+  source: https://business.adobe.com/products/marketo/adobe-marketo.html
+  license: cc0
+  file: logos/crm-ma/marketo.svg
+
+- slug: pardot
+  name: Account Engagement (Pardot)
+  category: crm-ma
+  vendor: Salesforce Inc.
+  color: "#00A1E0"
+  source: https://www.salesforce.com/products/marketing-cloud/account-engagement/
+  license: trademark-fair-use
+  file: logos/crm-ma/pardot.svg
+
+- slug: kairos3
+  name: Kairos3
+  category: crm-ma
+  vendor: カイロスマーケティング株式会社
+  color: "#0066B3"
+  source: https://www.kairosmarketing.net/
+  license: trademark-fair-use
+  file: logos/crm-ma/kairos3.svg
+
+- slug: list-finder
+  name: List Finder
+  category: crm-ma
+  vendor: 株式会社Innovation X Solutions
+  color: "#0099CC"
+  source: https://promote.list-finder.jp/
+  license: trademark-fair-use
+  file: logos/crm-ma/list-finder.svg
+
+- slug: ltv-lab
+  name: LTV-Lab for BtoB
+  category: crm-ma
+  vendor: 株式会社LTV-X
+  color: "#0066CC"
+  source: https://ltv-x.com/
+  license: trademark-fair-use
+  file: logos/crm-ma/ltv-lab.svg
+
+- slug: uchideno-kozuchi
+  name: うちでのこづち
+  category: crm-ma
+  vendor: 株式会社E-Grant
+  color: "#FF6600"
+  source: https://uchideno-kozuchi.com/
+  license: trademark-fair-use
+  file: logos/crm-ma/uchideno-kozuchi.svg
+
+# ============================================================
+# backoffice : 会計・労務
+# ============================================================
+- slug: freee
+  name: freee
+  category: backoffice
+  vendor: フリー株式会社
+  color: "#00B8E2"
+  source: https://www.freee.co.jp/
+  license: trademark-fair-use
+  file: logos/backoffice/freee.svg
+
+- slug: moneyforward
+  name: マネーフォワード
+  category: backoffice
+  vendor: 株式会社マネーフォワード
+  color: "#005BAC"
+  source: https://corp.moneyforward.com/
+  press_kit: https://corp.moneyforward.com/aboutus/identity/
+  license: trademark-fair-use
+  file: logos/backoffice/moneyforward.svg
+
+- slug: yayoi
+  name: 弥生会計
+  category: backoffice
+  vendor: 弥生株式会社
+  color: "#E60012"
+  source: https://www.yayoi-kk.co.jp/
+  license: trademark-fair-use
+  file: logos/backoffice/yayoi.svg
+
+- slug: smarthr
+  name: SmartHR
+  category: backoffice
+  vendor: 株式会社SmartHR
+  color: "#00A0E9"
+  source: https://smarthr.jp/
+  press_kit: https://smarthr.co.jp/contact/media/
+  license: trademark-fair-use
+  file: logos/backoffice/smarthr.svg
+
+- slug: obic-bugyo-cloud
+  name: 奉行クラウド
+  category: backoffice
+  vendor: 株式会社オービックビジネスコンサルタント (OBC)
+  color: "#005BAC"
+  source: https://www.obc.co.jp/bugyo-cloud
+  license: trademark-fair-use
+  file: logos/backoffice/obic-bugyo-cloud.svg
+
+# ============================================================
+# communication : コミュニケーション（顧客対応）
+# ============================================================
+- slug: line
+  name: LINE
+  category: communication
+  vendor: LINEヤフー株式会社
+  color: "#06C755"
+  source: https://line.me/
+  license: cc0
+  file: logos/communication/line.svg
+
+- slug: line-official
+  name: LINE公式アカウント
+  category: communication
+  vendor: LINEヤフー株式会社
+  color: "#06C755"
+  source: https://www.linebiz.com/jp/service/line-official-account/
+  license: trademark-fair-use
+  file: logos/communication/line-official.svg
+
+- slug: gmail
+  name: Gmail
+  category: communication
+  vendor: Google LLC
+  color: "#EA4335"
+  source: https://mail.google.com/
+  license: cc0
+  file: logos/communication/gmail.svg
+
+- slug: relation
+  name: Re:lation（リレーション）
+  category: communication
+  vendor: 株式会社インゲージ
+  color: "#0099CC"
+  source: https://ingage.jp/relation/
+  license: trademark-fair-use
+  file: logos/communication/relation.svg
+
+# ============================================================
+# review-tool : レビュー / 売上UP / サイト内検索
+# ============================================================
+- slug: u-komi
+  name: U-KOMI
+  category: review-tool
+  vendor: 株式会社サブスパイア
+  color: "#FF6600"
+  source: https://u-komi.com/
+  license: trademark-fair-use
+  file: logos/review-tool/u-komi.svg
+
+- slug: ec-search
+  name: ECサーチ
+  category: review-tool
+  vendor: エクスプロージョン株式会社
+  color: "#005BAC"
+  source: https://explosion.co.jp/ec-search/
+  license: trademark-fair-use
+  file: logos/review-tool/ec-search.svg
+
+- slug: ec-recommender
+  name: ECレコメンダー
+  category: review-tool
+  vendor: エクスプロージョン株式会社
+  color: "#0099CC"
+  source: https://explosion.co.jp/ec-recommender/
+  license: trademark-fair-use
+  file: logos/review-tool/ec-recommender.svg
+
+- slug: goq-smile
+  name: GoQ Smile
+  category: review-tool
+  vendor: 株式会社GoQSystem
+  color: "#0099CC"
+  source: https://goqsystem.com/
+  license: trademark-fair-use
+  file: logos/review-tool/goq-smile.svg
+
+# ============================================================
+# dev : 開発基盤・データ
+# ============================================================
+- slug: aws
+  name: Amazon Web Services
+  category: dev
+  vendor: Amazon.com Inc.
+  color: "#FF9900"
+  source: https://aws.amazon.com/
+  license: cc0
+  file: logos/dev/aws.svg
+
+- slug: azure
+  name: Microsoft Azure
+  category: dev
+  vendor: Microsoft Corporation
+  color: "#0078D4"
+  source: https://azure.microsoft.com/
+  license: cc0
+  file: logos/dev/azure.svg
+
+- slug: gcp
+  name: Google Cloud Platform
+  category: dev
+  vendor: Google LLC
+  color: "#4285F4"
+  source: https://cloud.google.com/
+  license: cc0
+  file: logos/dev/gcp.svg
+
+- slug: wordpress
+  name: WordPress
+  category: dev
+  vendor: WordPress Foundation
+  color: "#21759B"
+  source: https://wordpress.org/
+  license: cc0
+  file: logos/dev/wordpress.svg
+
+- slug: tableau
+  name: Tableau
+  category: dev
+  vendor: Tableau Software (Salesforce)
+  color: "#E97627"
+  source: https://www.tableau.com/
+  license: cc0
+  file: logos/dev/tableau.svg
+
+# ============================================================
+# jp-mall : 国内モール / SaaSカート
+# ============================================================
+- slug: rakuten-ichiba
+  name: 楽天市場
+  category: jp-mall
+  vendor: 楽天グループ株式会社
+  color: "#BF0000"
+  source: https://www.rakuten.co.jp/
+  license: trademark-fair-use
+  file: logos/jp-mall/rakuten-ichiba.svg
+
+- slug: yahoo-shopping
+  name: Yahoo!ショッピング
+  category: jp-mall
+  vendor: LINEヤフー株式会社
+  color: "#FF0033"
+  source: https://shopping.yahoo.co.jp/
+  license: trademark-fair-use
+  file: logos/jp-mall/yahoo-shopping.svg
+
+- slug: amazon
+  name: Amazon
+  category: jp-mall
+  vendor: Amazon.com Inc.
+  color: "#FF9900"
+  source: https://www.amazon.co.jp/
+  license: cc0
+  file: logos/jp-mall/amazon.svg
+
+- slug: base
+  name: BASE
+  category: jp-mall
+  vendor: BASE株式会社
+  color: "#00C800"
+  source: https://thebase.in/
+  license: trademark-fair-use
+  file: logos/jp-mall/base.svg
+
+- slug: stores
+  name: STORES
+  category: jp-mall
+  vendor: ストアーズ株式会社
+  color: "#000000"
+  source: https://stores.jp/
+  license: trademark-fair-use
+  file: logos/jp-mall/stores.svg
+
+- slug: colorme
+  name: カラーミーショップ
+  category: jp-mall
+  vendor: GMOペパボ株式会社
+  color: "#FF6600"
+  source: https://shop-pro.jp/
+  license: trademark-fair-use
+  file: logos/jp-mall/colorme.svg
+
+- slug: mercari-shops
+  name: メルカリShops
+  category: jp-mall
+  vendor: 株式会社メルカリ
+  color: "#FF0033"
+  source: https://mercari-shops.com/
+  license: trademark-fair-use
+  file: logos/jp-mall/mercari-shops.svg
+
+- slug: qoo10
+  name: Qoo10
+  category: jp-mall
+  vendor: eBay Japan合同会社
+  color: "#FF0033"
+  source: https://www.qoo10.jp/
+  license: trademark-fair-use
+  file: logos/jp-mall/qoo10.svg
+
+# ============================================================
+# craval : 自社
+# ============================================================
+- slug: craval
+  name: Craval（株式会社Craval）
+  category: craval
+  vendor: 株式会社Craval
+  color: "#1C1C1C"
+  source: https://craval.jp/
+  license: own
+  file: logos/craval/craval.svg
