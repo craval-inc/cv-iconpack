@@ -160,7 +160,7 @@
   source: https://www.yayoi-kk.co.jp/products/hanbai/
   press_kit: https://www.yayoi-kk.co.jp/company/logo/
   license: trademark-fair-use
-  file: logos/sales-management/yayoi-hanbai.png
+  file: logos/sales-management/yayoi-hanbai.svg
 
 - slug: shokura-bugyo
   name: 商蔵奉行クラウド
@@ -242,7 +242,7 @@
   color: "#003366"
   source: https://www.uchida-it.co.jp/uitec/products/scc/
   license: trademark-fair-use
-  file: logos/sales-management/super-cocktail.png
+  file: logos/sales-management/super-cocktail.svg
 
 - slug: aladdin-office
   name: アラジンオフィス
@@ -495,7 +495,7 @@
   color: "#FF6600"
   source: https://www.assist-tencho.jp/
   license: trademark-fair-use
-  file: logos/inventory-wms/assist-tencho.svg
+  file: logos/inventory-wms/assist-tencho.png
 
 - slug: tempostar
   name: TEMPOSTAR
@@ -637,7 +637,7 @@
   color: "#FF6600"
   source: https://www.sbpayment.jp/
   license: trademark-fair-use
-  file: logos/payment/sbpayment.jpg
+  file: logos/payment/sbpayment.png
 
 - slug: veritrans
   name: ベリトランス
@@ -694,7 +694,7 @@
   color: "#FFCB05"
   source: https://www.kuronekoyamato.co.jp/
   license: trademark-fair-use
-  file: logos/logistics/yamato.png
+  file: logos/logistics/yamato.svg
 
 - slug: yu-print-r
   name: ゆうプリR
@@ -1142,7 +1142,7 @@
   color: "#000000"
   source: https://stores.jp/
   license: trademark-fair-use
-  file: logos/jp-mall/stores.jpg
+  file: logos/jp-mall/stores.png
 
 - slug: colorme
   name: カラーミーショップ
@@ -1160,7 +1160,7 @@
   color: "#FF0033"
   source: https://mercari-shops.com/
   license: trademark-fair-use
-  file: logos/jp-mall/mercari-shops.png
+  file: logos/jp-mall/mercari-shops.svg
 
 - slug: qoo10
   name: Qoo10
@@ -1181,4 +1181,4 @@
   color: "#1C1C1C"
   source: https://craval.jp/
   license: own
-  file: logos/craval/craval.svg
+  file: logos/craval/craval.png

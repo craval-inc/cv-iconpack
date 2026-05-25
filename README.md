@@ -44,8 +44,8 @@ bcart -> kintone: API連携
 ## ロゴ収集状況
 
 - 合計: **124社**
-- 本物ロゴ取得済: 109社（Simple Icons / gilbarbara/logos / 公式DL）
-- プレースホルダー: 15社（ブランドカラー + 社名テキスト、後日プレスキットから差替予定）
+- 本物ロゴ取得済: 118社（Simple Icons / gilbarbara/logos / 公式DL）
+- プレースホルダー: 6社（ブランドカラー + 社名テキスト、後日プレスキットから差替予定）
 
 プレースホルダーでも D2 や HTML から参照可能。差替時はファイル名を変えず上書き保存するだけで CDN にも反映される（jsDelivr キャッシュは最大12時間）。
 
@@ -86,8 +86,8 @@ bcart -> kintone: API連携
 | `sho-bugyo` | 商奉行 | 株式会社オービックビジネスコンサルタント (OBC) | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/sho-bugyo.svg" width="40"> |
 | `shokura-bugyo` | 商蔵奉行クラウド | 株式会社オービックビジネスコンサルタント (OBC) | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/shokura-bugyo.svg" width="40"> |
 | `smile-v` | SMILE V | 株式会社大塚商会 | `#FFA500` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/smile-v.svg" width="40"> |
-| `super-cocktail` | スーパーカクテルCore | 内田洋行ITソリューションズ | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/super-cocktail.png" width="40"> |
-| `yayoi-hanbai` | 弥生販売 | 弥生株式会社 | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/yayoi-hanbai.png" width="40"> |
+| `super-cocktail` | スーパーカクテルCore | 内田洋行ITソリューションズ | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/super-cocktail.svg" width="40"> |
+| `yayoi-hanbai` | 弥生販売 | 弥生株式会社 | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/yayoi-hanbai.svg" width="40"> |
 
 ### Bカート公式ERP/販売管理アプリ (8)
 
@@ -119,7 +119,7 @@ bcart -> kintone: API連携
 
 | slug | 名称 | 提供会社 | カラー | プレビュー |
 |------|------|---------|--------|----------|
-| `assist-tencho` | アシスト店長 | 株式会社ハングリード | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/assist-tencho.svg" width="40"> |
+| `assist-tencho` | アシスト店長 | 株式会社ハングリード | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/assist-tencho.png" width="40"> |
 | `commercerobo` | Commercerobo | 株式会社コマースロボティクス | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/commercerobo.png" width="40"> |
 | `logiec` | logiec（ロジーク） | 株式会社はぴロジ | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logiec.png" width="40"> |
 | `logiless` | LOGILESS（ロジレス） | 株式会社ロジレス | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logiless.png" width="40"> |
@@ -153,7 +153,7 @@ bcart -> kintone: API連携
 | `paypal` | PayPal | PayPal Holdings | `#003087` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paypal.svg" width="40"> |
 | `paypay` | PayPay | PayPay株式会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paypay.svg" width="40"> |
 | `rakuten-pay` | 楽天ペイ | 楽天ペイメント株式会社 | `#BF0000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/rakuten-pay.svg" width="40"> |
-| `sbpayment` | SBペイメントサービス | SBペイメントサービス株式会社 | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/sbpayment.jpg" width="40"> |
+| `sbpayment` | SBペイメントサービス | SBペイメントサービス株式会社 | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/sbpayment.png" width="40"> |
 | `stripe` | Stripe | Stripe Inc. | `#635BFF` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/stripe.svg" width="40"> |
 | `veritrans` | ベリトランス | ベリトランス株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/veritrans.svg" width="40"> |
 
@@ -163,7 +163,7 @@ bcart -> kintone: API連携
 |------|------|---------|--------|----------|
 | `japan-post` | 日本郵便 | 日本郵便株式会社 | `#DA1F26` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/japan-post.svg" width="40"> |
 | `sagawa-e-hiden` | e飛伝Ⅲ | 佐川急便株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/sagawa-e-hiden.png" width="40"> |
-| `yamato` | ヤマト運輸 | ヤマト運輸株式会社 | `#FFCB05` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yamato.png" width="40"> |
+| `yamato` | ヤマト運輸 | ヤマト運輸株式会社 | `#FFCB05` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yamato.svg" width="40"> |
 | `yamato-b2cloud` | ヤマトB2クラウド | ヤマト運輸株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yamato-b2cloud.png" width="40"> |
 | `yu-print-r` | ゆうプリR | 日本郵便株式会社 | `#DA1F26` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yu-print-r.png" width="40"> |
 
@@ -243,17 +243,17 @@ bcart -> kintone: API連携
 | `amazon` | Amazon | Amazon.com Inc. | `#FF9900` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/amazon.svg" width="40"> |
 | `base` | BASE | BASE株式会社 | `#00C800` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/base.svg" width="40"> |
 | `colorme` | カラーミーショップ | GMOペパボ株式会社 | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/colorme.svg" width="40"> |
-| `mercari-shops` | メルカリShops | 株式会社メルカリ | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/mercari-shops.png" width="40"> |
+| `mercari-shops` | メルカリShops | 株式会社メルカリ | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/mercari-shops.svg" width="40"> |
 | `qoo10` | Qoo10 | eBay Japan合同会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/qoo10.svg" width="40"> |
 | `rakuten-ichiba` | 楽天市場 | 楽天グループ株式会社 | `#BF0000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/rakuten-ichiba.svg" width="40"> |
-| `stores` | STORES | ストアーズ株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/stores.jpg" width="40"> |
+| `stores` | STORES | ストアーズ株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/stores.png" width="40"> |
 | `yahoo-shopping` | Yahoo!ショッピング | LINEヤフー株式会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/yahoo-shopping.svg" width="40"> |
 
 ### 自社 (1)
 
 | slug | 名称 | 提供会社 | カラー | プレビュー |
 |------|------|---------|--------|----------|
-| `craval` | Craval（株式会社Craval） | 株式会社Craval | `#1C1C1C` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/craval/craval.svg" width="40"> |
+| `craval` | Craval（株式会社Craval） | 株式会社Craval | `#1C1C1C` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/craval/craval.png" width="40"> |
 
 ## ロゴ追加・差替の運用
 
