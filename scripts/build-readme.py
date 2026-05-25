@@ -30,13 +30,22 @@ CAT_LABELS = {
 }
 
 
-def is_real_logo(content: str) -> bool:
-    """プレースホルダーかどうか判定（プレースホルダーは <rect rx="32"> から始まる単純な構造）"""
-    if "cdn.simpleicons.org" in content or "gilbarbara" in content:
+def is_real_logo(filepath: Path) -> bool:
+    """プレースホルダー以外（=本物ロゴ）かどうか判定"""
+    if not filepath.exists():
+        return False
+    # 非SVG（PNG/JPG/WebP）は全て本物扱い
+    if filepath.suffix.lower() in (".png", ".jpg", ".jpeg", ".webp"):
         return True
+    if filepath.suffix.lower() != ".svg":
+        return False
+    try:
+        content = filepath.read_text(encoding="utf-8")
+    except Exception:
+        return False
     if "<path" in content or "<g " in content:
         return True
-    # プレースホルダーは <rect> + <text> のみ
+    # プレースホルダーは <rect rx="32"> + <text> のみ
     return False
 
 
@@ -98,9 +107,7 @@ def main():
     got_real = 0
     for x in logos:
         f = ROOT / x["file"]
-        if not f.exists():
-            continue
-        if is_real_logo(f.read_text(encoding="utf-8")):
+        if is_real_logo(f):
             got_real += 1
     placeholder = total - got_real
 

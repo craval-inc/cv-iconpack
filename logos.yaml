@@ -160,7 +160,7 @@
   source: https://www.yayoi-kk.co.jp/products/hanbai/
   press_kit: https://www.yayoi-kk.co.jp/company/logo/
   license: trademark-fair-use
-  file: logos/sales-management/yayoi-hanbai.svg
+  file: logos/sales-management/yayoi-hanbai.png
 
 - slug: shokura-bugyo
   name: 商蔵奉行クラウド
@@ -224,7 +224,7 @@
   color: "#E60012"
   source: https://pca.jp/area_product/shoukon.html
   license: trademark-fair-use
-  file: logos/sales-management/pca-shokon.png
+  file: logos/sales-management/pca-shokon.svg
 
 - slug: smile-v
   name: SMILE V
@@ -290,7 +290,7 @@
   color: "#1C1C1C"
   source: https://btone.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/btone.svg
+  file: logos/erp-bcart-app/btone.png
 
 - slug: cross-mall
   name: CROSS MALL
@@ -317,7 +317,7 @@
   color: "#005BAC"
   source: https://cammacs.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/cammacs.svg
+  file: logos/erp-bcart-app/cammacs.png
 
 - slug: s-flow
   name: s-flow
@@ -326,7 +326,7 @@
   color: "#0099CC"
   source: https://www.s-flow.co.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/s-flow.svg
+  file: logos/erp-bcart-app/s-flow.png
 
 - slug: smileworks
   name: SmileWorks
@@ -344,7 +344,7 @@
   color: "#000000"
   source: https://www.freightlinks.co.jp/onescloset/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/onescloset.svg
+  file: logos/erp-bcart-app/onescloset.png
 
 # ============================================================
 # eai : データ連携・EAI / ノーコード自動化
@@ -356,7 +356,7 @@
   color: "#0066CC"
   source: https://www.ec-connector.com/
   license: trademark-fair-use
-  file: logos/eai/ec-connector.svg
+  file: logos/eai/ec-connector.jpg
 
 - slug: yoom
   name: Yoom
@@ -365,7 +365,7 @@
   color: "#FFC107"
   source: https://yoom.fun/
   license: trademark-fair-use
-  file: logos/eai/yoom.svg
+  file: logos/eai/yoom.png
 
 - slug: cdata-arc
   name: CData Arc
@@ -383,7 +383,7 @@
   color: "#00C853"
   source: https://www.teps.jp/
   license: trademark-fair-use
-  file: logos/eai/teps.svg
+  file: logos/eai/teps.png
 
 - slug: tetlink
   name: テットリンク
@@ -392,7 +392,7 @@
   color: "#0066CC"
   source: https://tetlink.com/
   license: trademark-fair-use
-  file: logos/eai/tetlink.svg
+  file: logos/eai/tetlink.png
 
 - slug: zapier
   name: Zapier
@@ -459,7 +459,7 @@
   color: "#FF6600"
   source: https://logimopro.com/
   license: trademark-fair-use
-  file: logos/inventory-wms/logimopro.svg
+  file: logos/inventory-wms/logimopro.png
 
 - slug: logiec
   name: logiec（ロジーク）
@@ -468,7 +468,7 @@
   color: "#0099CC"
   source: https://logiec.jp/
   license: trademark-fair-use
-  file: logos/inventory-wms/logiec.svg
+  file: logos/inventory-wms/logiec.png
 
 - slug: commercerobo
   name: Commercerobo
@@ -477,7 +477,7 @@
   color: "#003366"
   source: https://www.commercerobo.com/
   license: trademark-fair-use
-  file: logos/inventory-wms/commercerobo.svg
+  file: logos/inventory-wms/commercerobo.png
 
 - slug: rakuraku-zaiko
   name: らくらく在庫
@@ -909,7 +909,7 @@
   color: "#0066CC"
   source: https://ltv-x.com/
   license: trademark-fair-use
-  file: logos/crm-ma/ltv-lab.svg
+  file: logos/crm-ma/ltv-lab.png
 
 - slug: uchideno-kozuchi
   name: うちでのこづち
@@ -918,7 +918,7 @@
   color: "#FF6600"
   source: https://uchideno-kozuchi.com/
   license: trademark-fair-use
-  file: logos/crm-ma/uchideno-kozuchi.webp
+  file: logos/crm-ma/uchideno-kozuchi.jpg
 
 # ============================================================
 # backoffice : 会計・労務
@@ -1028,7 +1028,7 @@
   color: "#005BAC"
   source: https://explosion.co.jp/ec-search/
   license: trademark-fair-use
-  file: logos/review-tool/ec-search.svg
+  file: logos/review-tool/ec-search.png
 
 - slug: ec-recommender
   name: ECレコメンダー
@@ -1037,7 +1037,7 @@
   color: "#0099CC"
   source: https://explosion.co.jp/ec-recommender/
   license: trademark-fair-use
-  file: logos/review-tool/ec-recommender.svg
+  file: logos/review-tool/ec-recommender.png
 
 - slug: goq-smile
   name: GoQ Smile
@@ -1142,7 +1142,7 @@
   color: "#000000"
   source: https://stores.jp/
   license: trademark-fair-use
-  file: logos/jp-mall/stores.svg
+  file: logos/jp-mall/stores.jpg
 
 - slug: colorme
   name: カラーミーショップ
@@ -1160,7 +1160,7 @@
   color: "#FF0033"
   source: https://mercari-shops.com/
   license: trademark-fair-use
-  file: logos/jp-mall/mercari-shops.svg
+  file: logos/jp-mall/mercari-shops.png
 
 - slug: qoo10
   name: Qoo10
