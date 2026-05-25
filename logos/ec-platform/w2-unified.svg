@@ -1,1 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240"><rect width="240" height="240" rx="32" fill="#0066CC"/><text x="120.0" y="127.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Hiragino Sans&quot;, &quot;Yu Gothic&quot;, &quot;Meiryo&quot;, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">W2 Unified</text></svg>
+<svg width="41" height="26" viewBox="0 0 41 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.17188 13.0013C2.17188 18.9843 7.02212 23.8346 13.0052 23.8346C18.9882 23.8346 23.8385 18.9843 23.8385 13.0013C23.8385 7.01821 18.9882 2.16797 13.0052 2.16797C7.02212 2.16797 2.17188 7.01821 2.17188 13.0013Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.0781 2.21875C14.0781 2.21875 17.3281 6.49859 17.3281 12.9985C17.3281 19.4985 14.0781 23.7785 14.0781 23.7785" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M11.9219 23.7785C11.9219 23.7785 8.67188 19.4985 8.67188 12.9985C8.67188 6.49859 11.9219 2.21875 11.9219 2.21875" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.84375 16.793H23.1462" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M2.84375 9.20703H23.1462" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 19L29.8038 10L40.1962 10L35 19Z" fill="white"/>
+</svg>

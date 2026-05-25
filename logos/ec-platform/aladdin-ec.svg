@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240"><rect width="240" height="240" rx="32" fill="#00529F"/><text x="120.0" y="127.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Hiragino Sans&quot;, &quot;Yu Gothic&quot;, &quot;Meiryo&quot;, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">アラジンEC</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="19.921" height="19.921" viewBox="0 0 19.921 19.921">
+  <g id="グループ_3041" data-name="グループ 3041" transform="translate(0 10.113) rotate(-45)">
+    <g id="楕円形_25" data-name="楕円形 25" transform="translate(0)" fill="none" stroke="#333" stroke-width="2">
+      <ellipse cx="7.151" cy="6.935" rx="7.151" ry="6.935" stroke="none"/>
+      <ellipse cx="7.151" cy="6.935" rx="6.151" ry="5.935" fill="none"/>
+    </g>
+    <path id="パス_167" data-name="パス 167" d="M0,5.076V0" transform="translate(7.151 12.87)" fill="none" stroke="#333" stroke-width="2"/>
+  </g>
+</svg>

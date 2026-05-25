@@ -30,7 +30,7 @@
   color: "#E60012"
   source: https://www.ecbeing.net/
   license: trademark-fair-use
-  file: logos/ec-platform/ecbeing.svg
+  file: logos/ec-platform/ecbeing.png
 
 - slug: shopify
   name: Shopify
@@ -206,7 +206,7 @@
   color: "#0066B3"
   source: https://www.ohken.co.jp/daijin_top/hanbai/
   license: trademark-fair-use
-  file: logos/sales-management/hanbai-daijin.svg
+  file: logos/sales-management/hanbai-daijin.png
 
 - slug: hanbaio
   name: 販売王
@@ -224,7 +224,7 @@
   color: "#E60012"
   source: https://pca.jp/area_product/shoukon.html
   license: trademark-fair-use
-  file: logos/sales-management/pca-shokon.svg
+  file: logos/sales-management/pca-shokon.png
 
 - slug: smile-v
   name: SMILE V
@@ -242,7 +242,7 @@
   color: "#003366"
   source: https://www.uchida-it.co.jp/uitec/products/scc/
   license: trademark-fair-use
-  file: logos/sales-management/super-cocktail.svg
+  file: logos/sales-management/super-cocktail.png
 
 - slug: aladdin-office
   name: アラジンオフィス
@@ -251,7 +251,7 @@
   color: "#00529F"
   source: https://aladdin-office.com/
   license: trademark-fair-use
-  file: logos/sales-management/aladdin-office.svg
+  file: logos/sales-management/aladdin-office.png
 
 - slug: as-hanbai
   name: A's販売
@@ -299,7 +299,7 @@
   color: "#FF6600"
   source: https://www.cross-mall.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/cross-mall.svg
+  file: logos/erp-bcart-app/cross-mall.jpg
 
 - slug: banking-erp
   name: BANKING ERP
@@ -450,7 +450,7 @@
   color: "#0066B3"
   source: https://www.logizard-zero.com/
   license: trademark-fair-use
-  file: logos/inventory-wms/logizard-zero.svg
+  file: logos/inventory-wms/logizard-zero.png
 
 - slug: logimopro
   name: ロジモプロ
@@ -526,7 +526,7 @@
   color: "#FF6F61"
   source: https://airregi.jp/
   license: trademark-fair-use
-  file: logos/pos/airregi.svg
+  file: logos/pos/airregi.png
 
 - slug: ubiregi
   name: ユビレジ
@@ -574,7 +574,7 @@
   color: "#000000"
   source: https://business.kuronekoyamato.co.jp/business/payment/kakebarai/
   license: trademark-fair-use
-  file: logos/payment/kuroneko-kakebarai.svg
+  file: logos/payment/kuroneko-kakebarai.png
 
 - slug: bcart-creca
   name: Bカートクレカ決済
@@ -583,7 +583,7 @@
   color: "#005BAC"
   source: https://www.cardservice.co.jp/
   license: trademark-fair-use
-  file: logos/payment/bcart-creca.svg
+  file: logos/payment/bcart-creca.png
 
 - slug: paygent
   name: PAYGENT
@@ -601,7 +601,7 @@
   color: "#000000"
   source: https://business.kuronekoyamato.co.jp/business/payment/web/
   license: trademark-fair-use
-  file: logos/payment/kuroneko-webcollect.svg
+  file: logos/payment/kuroneko-webcollect.png
 
 - slug: stripe
   name: Stripe
@@ -637,7 +637,7 @@
   color: "#FF6600"
   source: https://www.sbpayment.jp/
   license: trademark-fair-use
-  file: logos/payment/sbpayment.svg
+  file: logos/payment/sbpayment.jpg
 
 - slug: veritrans
   name: ベリトランス
@@ -685,7 +685,7 @@
   color: "#000000"
   source: https://bmypage.kuronekoyamato.co.jp/bmypage/servlet/jp.co.kuronekoyamato.wur.bm.servlet.BMTH1010
   license: trademark-fair-use
-  file: logos/logistics/yamato-b2cloud.svg
+  file: logos/logistics/yamato-b2cloud.png
 
 - slug: yamato
   name: ヤマト運輸
@@ -694,7 +694,7 @@
   color: "#FFCB05"
   source: https://www.kuronekoyamato.co.jp/
   license: trademark-fair-use
-  file: logos/logistics/yamato.svg
+  file: logos/logistics/yamato.png
 
 - slug: yu-print-r
   name: ゆうプリR
@@ -815,7 +815,7 @@
   color: "#1F2D3D"
   source: https://go.chatwork.com/
   license: trademark-fair-use
-  file: logos/groupware/chatwork.svg
+  file: logos/groupware/chatwork.png
 
 - slug: zoom
   name: Zoom
@@ -918,7 +918,7 @@
   color: "#FF6600"
   source: https://uchideno-kozuchi.com/
   license: trademark-fair-use
-  file: logos/crm-ma/uchideno-kozuchi.svg
+  file: logos/crm-ma/uchideno-kozuchi.webp
 
 # ============================================================
 # backoffice : 会計・労務
@@ -940,7 +940,7 @@
   source: https://corp.moneyforward.com/
   press_kit: https://corp.moneyforward.com/aboutus/identity/
   license: trademark-fair-use
-  file: logos/backoffice/moneyforward.svg
+  file: logos/backoffice/moneyforward.png
 
 - slug: yayoi
   name: 弥生会計

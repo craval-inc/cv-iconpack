@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240"><rect width="240" height="240" rx="32" fill="#005BAC"/><text x="120.0" y="127.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Hiragino Sans&quot;, &quot;Yu Gothic&quot;, &quot;Meiryo&quot;, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">販売王</text></svg>
+<svg viewbox="0 0 36.13 22" xmlns="http://www.w3.org/2000/svg">
+            <path d="M18,0h4L12,22h-4L18,0Z" class="drawer-notActive" style="fill:#fff;"></path>
+            <path d="M26,0h4l-10,22h-4L26,0Z" style="fill:#fff;"></path>
+            <path d="M10,0h4L4,22H0L10,0Z" class="drawer-notActive" style="fill:#fff;"></path>
+            <path d="M36.12,4.23l-7.56,3.1,1.75-4.7,5.81,1.61Z" style="fill:#f99900;"></path>
+            <g >
+              <path d="M22.92,21.5h-4.56l1.4-1.2,3.16,1.2Z" style="fill:#fff;"></path>
+              <path d="M19.66,19.72l5.98,2.28h-8.64l2.66-2.28Z" style="fill:#fff;"></path>
+            </g>
+            <path d="M30,22h-4S16,0,16,0h4s10,22,10,22Z" class="drawer-active" style="fill:#fff; opacity: 0;"></path>
+          </svg>

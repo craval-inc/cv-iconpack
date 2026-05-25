@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240"><rect width="240" height="240" rx="32" fill="#E94B35"/><text x="120.0" y="127.6" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, &quot;Hiragino Sans&quot;, &quot;Yu Gothic&quot;, &quot;Meiryo&quot;, sans-serif" font-size="36" font-weight="700" fill="#FFFFFF">Workato</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="327" viewbox="0 0 160 327" fill="none">
+        <g filter="url(#filter0_f_5399_1485)">
+          <path d="M22.915 267.539C56.447 241.357 8.94333 214.671 -19 204.6L86.2905 177.07L348.175 237.897C368.63 271.194 275.243 340.305 157.043 346.558C38.8427 352.812 -19 300.268 22.915 267.539Z" fill="#203D3D"></path>
+        </g>
+        <defs >
+          <filter id="filter0_f_5399_1485" x="-196.07" y="3.05176e-05" width="724.139" height="524.139" filterunits="userSpaceOnUse" color-interpolation-filters="sRGB">
+            <feflood flood-opacity="0" result="BackgroundImageFix"></feflood>
+            <feblend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"></feblend>
+            <fegaussianblur stddeviation="88.5348" result="effect1_foregroundBlur_5399_1485"></fegaussianblur>
+          </filter>
+        </defs>
+      </svg>

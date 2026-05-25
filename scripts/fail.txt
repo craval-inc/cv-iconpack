@@ -1,0 +1,22 @@
+si-web-shopping	SI Web Shopping	https://www.si-portal.jp/products/web-shopping/
+gmo-cloud-ec	GMOクラウドEC	https://gmo-cloud-ec.jp/
+bee-cross-border	Bee Cross Border	https://bee-crossborder.com/
+orange-ec	Orange EC	https://www.orange-operation.jp/orange-ec/
+as-hanbai	A's販売	https://www.act-net.co.jp/
+btone	Btone（ビートーン）	https://btone.jp/
+cammacs	キャムマックス	https://cammacs.jp/
+s-flow	s-flow	https://www.s-flow.co.jp/
+onescloset	One'sCloset	https://www.freightlinks.co.jp/onescloset/
+teps	TēPs（テープス）	https://www.teps.jp/
+tetlink	テットリンク	https://tetlink.com/
+logimopro	ロジモプロ	https://logimopro.com/
+logiec	logiec（ロジーク）	https://logiec.jp/
+commercerobo	Commercerobo	https://www.commercerobo.com/
+assist-tencho	アシスト店長	https://www.assist-tencho.jp/
+sagawa-e-hiden	e飛伝Ⅲ	https://www2.sagawa-exp.co.jp/service/sendingsupport/
+ltv-lab	LTV-Lab for BtoB	https://ltv-x.com/
+ec-search	ECサーチ	https://explosion.co.jp/ec-search/
+ec-recommender	ECレコメンダー	https://explosion.co.jp/ec-recommender/
+stores	STORES	https://stores.jp/
+mercari-shops	メルカリShops	https://mercari-shops.com/
+qoo10	Qoo10	https://www.qoo10.jp/
