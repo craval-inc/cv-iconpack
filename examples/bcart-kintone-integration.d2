@@ -1,0 +1,26 @@
+# Bカート × kintone データ連携イメージ
+#
+# 動作確認: https://play.d2lang.com にこのファイルの中身を貼り付け
+# コマンドライン: d2 examples/bcart-kintone-integration.d2 out.svg
+
+direction: right
+
+bcart: Bカート {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/ec-platform/bcart.svg
+}
+
+ec-connector: ECコネクター {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/ec-connector.svg
+}
+
+kintone: kintone {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/kintone.svg
+}
+
+bcart -> ec-connector: 受注Webhook
+ec-connector -> kintone: レコード作成API
+kintone -> ec-connector: 在庫情報
+ec-connector -> bcart: 在庫同期

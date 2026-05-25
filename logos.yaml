@@ -1,4 +1,4 @@
-# craval-inc/saas-logos
+# craval-inc/cv-iconpack
 #
 # 全ロゴのメタデータ。記事図解（D2/SVG等）から参照する際の単一の真実の源。
 #
@@ -8,7 +8,7 @@
 #   - press-kit:           各社公式プレスキットに準拠
 #
 # cdn_url の生成規則:
-#   https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/{file}
+#   https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/{file}
 
 # ============================================================
 # ec-platform : BtoB / BtoC ECプラットフォーム

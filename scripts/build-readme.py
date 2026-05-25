@@ -49,9 +49,9 @@ def main():
         by_cat[x["category"]].append(x)
 
     md: list[str] = []
-    md.append("# saas-logos")
+    md.append("# cv-iconpack")
     md.append("")
-    md.append("株式会社CravalのBtoB ECメディア・営業資料・図解で使うSaaSロゴ集約リポジトリ。")
+    md.append("株式会社CravalのBtoB ECメディア・営業資料・図解で使うSVGアセット集（社内用）。")
     md.append("")
     md.append("## 使い方")
     md.append("")
@@ -60,7 +60,7 @@ def main():
     md.append("jsDelivr経由でGitHubから直接配信される。バージョン固定するなら `@main` を `@<commit-sha>` に変更。")
     md.append("")
     md.append("```")
-    md.append("https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/logos/<category>/<slug>.svg")
+    md.append("https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/<category>/<slug>.svg")
     md.append("```")
     md.append("")
     md.append("### D2 での参照例")
@@ -68,11 +68,11 @@ def main():
     md.append("```d2")
     md.append("bcart: Bカート {")
     md.append("  shape: image")
-    md.append("  icon: https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/logos/ec-platform/bcart.svg")
+    md.append("  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/ec-platform/bcart.svg")
     md.append("}")
     md.append("kintone: kintone {")
     md.append("  shape: image")
-    md.append("  icon: https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/logos/groupware/kintone.svg")
+    md.append("  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/kintone.svg")
     md.append("}")
     md.append("bcart -> kintone: API連携")
     md.append("```")
@@ -80,7 +80,7 @@ def main():
     md.append("### HTML での参照例")
     md.append("")
     md.append("```html")
-    md.append('<img src="https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/logos/payment/stripe.svg" alt="Stripe" width="64">')
+    md.append('<img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/stripe.svg" alt="Stripe" width="64">')
     md.append("```")
     md.append("")
     md.append("## メタデータ")
@@ -129,7 +129,7 @@ def main():
             name = x["name"]
             vendor = x.get("vendor", "-")
             color = x["color"]
-            url = f"https://cdn.jsdelivr.net/gh/craval-inc/saas-logos@main/{x['file'].replace(chr(92), '/')}"
+            url = f"https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/{x['file'].replace(chr(92), '/')}"
             md.append(f'| `{slug}` | {name} | {vendor} | `{color}` | <img src="{url}" width="40"> |')
         md.append("")
 

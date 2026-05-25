@@ -1,0 +1,41 @@
+# Bカート × 弥生販売 連携イメージ（ECコネクター®経由）
+#
+# 動作確認: https://play.d2lang.com にこのファイルの中身を貼り付け
+
+direction: right
+
+customer: 取引先 {
+  shape: person
+}
+
+bcart: Bカート {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/ec-platform/bcart.svg
+}
+
+ec-connector: ECコネクター {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/ec-connector.svg
+}
+
+yayoi: 弥生販売 {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/sales-management/yayoi-hanbai.svg
+}
+
+np: NP掛け払い {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/np-kakebarai.svg
+}
+
+yamato: ヤマトB2クラウド {
+  shape: image
+  icon: https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yamato-b2cloud.svg
+}
+
+customer -> bcart: 注文
+bcart -> np: 与信
+bcart -> ec-connector: 受注データ
+ec-connector -> yayoi: 売上伝票CSV
+ec-connector -> yamato: 送り状CSV
+yamato -> customer: 配送

@@ -74,7 +74,7 @@ GB_MAP = {
     "google-workspace": "google",
 }
 
-USER_AGENT = "Mozilla/5.0 (saas-logos fetcher; +https://github.com/craval-inc/saas-logos)"
+USER_AGENT = "Mozilla/5.0 (saas-logos fetcher; +https://github.com/craval-inc/cv-iconpack)"
 
 
 def fetch(url: str, timeout: int = 15) -> bytes | None:
