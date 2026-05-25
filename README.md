@@ -44,8 +44,8 @@ bcart -> kintone: API連携
 ## ロゴ収集状況
 
 - 合計: **124社**
-- 本物ロゴ取得済: 108社（Simple Icons / gilbarbara/logos / 公式DL）
-- プレースホルダー: 16社（ブランドカラー + 社名テキスト、後日プレスキットから差替予定）
+- 本物ロゴ取得済: 109社（Simple Icons / gilbarbara/logos / 公式DL）
+- プレースホルダー: 15社（ブランドカラー + 社名テキスト、後日プレスキットから差替予定）
 
 プレースホルダーでも D2 や HTML から参照可能。差替時はファイル名を変えず上書き保存するだけで CDN にも反映される（jsDelivr キャッシュは最大12時間）。
 
@@ -93,20 +93,20 @@ bcart -> kintone: API連携
 
 | slug | 名称 | 提供会社 | カラー | プレビュー |
 |------|------|---------|--------|----------|
-| `banking-erp` | BANKING ERP | 株式会社スマイルワークス | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/banking-erp.svg" width="40"> |
+| `banking-erp` | BANKING ERP | 株式会社スマイルワークス | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/banking-erp.png" width="40"> |
 | `btone` | Btone（ビートーン） | 株式会社ソトバコ | `#1C1C1C` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/btone.png" width="40"> |
 | `cammacs` | キャムマックス | 株式会社キャム | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/cammacs.png" width="40"> |
-| `cross-mall` | CROSS MALL | 株式会社ウイングス・コンサルティング | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/cross-mall.jpg" width="40"> |
-| `goqsystem` | GoQSystem | 株式会社GoQSystem | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/goqsystem.svg" width="40"> |
+| `cross-mall` | CROSS MALL | 株式会社ウイングス・コンサルティング | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/cross-mall.png" width="40"> |
+| `goqsystem` | GoQSystem | 株式会社GoQSystem | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/goqsystem.png" width="40"> |
 | `onescloset` | One'sCloset | 株式会社フレイトリンクスジャパン | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/onescloset.png" width="40"> |
 | `s-flow` | s-flow | 株式会社エスフロー | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/s-flow.png" width="40"> |
-| `smileworks` | SmileWorks | 株式会社スマイルワークス | `#FFA500` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/smileworks.svg" width="40"> |
+| `smileworks` | SmileWorks | 株式会社スマイルワークス | `#FFA500` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/erp-bcart-app/smileworks.png" width="40"> |
 
 ### EAI / データ連携 / ノーコード自動化 (8)
 
 | slug | 名称 | 提供会社 | カラー | プレビュー |
 |------|------|---------|--------|----------|
-| `cdata-arc` | CData Arc | CData Software Japan | `#0085CA` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/cdata-arc.svg" width="40"> |
+| `cdata-arc` | CData Arc | CData Software Japan | `#0085CA` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/cdata-arc.png" width="40"> |
 | `ec-connector` | ECコネクター | 株式会社久 | `#0066CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/ec-connector.jpg" width="40"> |
 | `make` | Make | Celonis SE | `#6D00CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/make.svg" width="40"> |
 | `teps` | TēPs（テープス） | テープス株式会社 | `#00C853` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/eai/teps.png" width="40"> |
@@ -122,11 +122,11 @@ bcart -> kintone: API連携
 | `assist-tencho` | アシスト店長 | 株式会社ハングリード | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/assist-tencho.svg" width="40"> |
 | `commercerobo` | Commercerobo | 株式会社コマースロボティクス | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/commercerobo.png" width="40"> |
 | `logiec` | logiec（ロジーク） | 株式会社はぴロジ | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logiec.png" width="40"> |
-| `logiless` | LOGILESS（ロジレス） | 株式会社ロジレス | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logiless.svg" width="40"> |
+| `logiless` | LOGILESS（ロジレス） | 株式会社ロジレス | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logiless.png" width="40"> |
 | `logimopro` | ロジモプロ | 株式会社清長 | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logimopro.png" width="40"> |
 | `logizard-zero` | ロジザードZERO | ロジザード株式会社 | `#0066B3` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logizard-zero.png" width="40"> |
 | `next-engine` | ネクストエンジン | NE株式会社 | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/next-engine.svg" width="40"> |
-| `rakuraku-zaiko` | らくらく在庫 | グリニッジ株式会社 | `#00A651` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/rakuraku-zaiko.svg" width="40"> |
+| `rakuraku-zaiko` | らくらく在庫 | グリニッジ株式会社 | `#00A651` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/rakuraku-zaiko.png" width="40"> |
 | `tempostar` | TEMPOSTAR | SAVAWAY株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/tempostar.svg" width="40"> |
 
 ### POS・レジ (3)
@@ -143,13 +143,13 @@ bcart -> kintone: API連携
 |------|------|---------|--------|----------|
 | `amazon-pay` | Amazon Pay | Amazon.com Inc. | `#FF9900` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/amazon-pay.svg" width="40"> |
 | `bcart-creca` | Bカートクレカ決済 | 株式会社ゼウス | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/bcart-creca.png" width="40"> |
-| `bcart-kakebarai` | Bカート掛け払い | マネーフォワードケッサイ株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/bcart-kakebarai.svg" width="40"> |
+| `bcart-kakebarai` | Bカート掛け払い | マネーフォワードケッサイ株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/bcart-kakebarai.png" width="40"> |
 | `gmo-pg` | GMOペイメントゲートウェイ | GMOペイメントゲートウェイ株式会社 | `#003366` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/gmo-pg.svg" width="40"> |
 | `kuroneko-kakebarai` | クロネコ掛け払い | ヤマトクレジットファイナンス株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/kuroneko-kakebarai.png" width="40"> |
 | `kuroneko-webcollect` | クロネコwebコレクト | ヤマト運輸株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/kuroneko-webcollect.png" width="40"> |
-| `np-kakebarai` | NP掛け払い | 株式会社ネットプロテクションズ | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/np-kakebarai.svg" width="40"> |
-| `paid` | Paid（ペイド） | 株式会社ラクーンフィナンシャル | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paid.svg" width="40"> |
-| `paygent` | PAYGENT | 株式会社ペイジェント | `#0066CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paygent.svg" width="40"> |
+| `np-kakebarai` | NP掛け払い | 株式会社ネットプロテクションズ | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/np-kakebarai.png" width="40"> |
+| `paid` | Paid（ペイド） | 株式会社ラクーンフィナンシャル | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paid.png" width="40"> |
+| `paygent` | PAYGENT | 株式会社ペイジェント | `#0066CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paygent.png" width="40"> |
 | `paypal` | PayPal | PayPal Holdings | `#003087` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paypal.svg" width="40"> |
 | `paypay` | PayPay | PayPay株式会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/paypay.svg" width="40"> |
 | `rakuten-pay` | 楽天ペイ | 楽天ペイメント株式会社 | `#BF0000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/payment/rakuten-pay.svg" width="40"> |
@@ -162,10 +162,10 @@ bcart -> kintone: API連携
 | slug | 名称 | 提供会社 | カラー | プレビュー |
 |------|------|---------|--------|----------|
 | `japan-post` | 日本郵便 | 日本郵便株式会社 | `#DA1F26` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/japan-post.svg" width="40"> |
-| `sagawa-e-hiden` | e飛伝Ⅲ | 佐川急便株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/sagawa-e-hiden.svg" width="40"> |
+| `sagawa-e-hiden` | e飛伝Ⅲ | 佐川急便株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/sagawa-e-hiden.png" width="40"> |
 | `yamato` | ヤマト運輸 | ヤマト運輸株式会社 | `#FFCB05` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yamato.png" width="40"> |
 | `yamato-b2cloud` | ヤマトB2クラウド | ヤマト運輸株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yamato-b2cloud.png" width="40"> |
-| `yu-print-r` | ゆうプリR | 日本郵便株式会社 | `#DA1F26` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yu-print-r.svg" width="40"> |
+| `yu-print-r` | ゆうプリR | 日本郵便株式会社 | `#DA1F26` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/logistics/yu-print-r.png" width="40"> |
 
 ### グループウェア・コミュニケーション基盤 (11)
 
@@ -196,7 +196,7 @@ bcart -> kintone: API連携
 | `pardot` | Account Engagement (Pardot) | Salesforce Inc. | `#00A1E0` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/crm-ma/pardot.svg" width="40"> |
 | `salesforce` | Salesforce | Salesforce Inc. | `#00A1E0` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/crm-ma/salesforce.svg" width="40"> |
 | `sansan` | Sansan | Sansan株式会社 | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/crm-ma/sansan.svg" width="40"> |
-| `uchideno-kozuchi` | うちでのこづち | 株式会社E-Grant | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/crm-ma/uchideno-kozuchi.jpg" width="40"> |
+| `uchideno-kozuchi` | うちでのこづち | 株式会社E-Grant | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/crm-ma/uchideno-kozuchi.png" width="40"> |
 
 ### 会計・労務 (5)
 
@@ -215,16 +215,16 @@ bcart -> kintone: API連携
 | `gmail` | Gmail | Google LLC | `#EA4335` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/communication/gmail.svg" width="40"> |
 | `line` | LINE | LINEヤフー株式会社 | `#06C755` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/communication/line.svg" width="40"> |
 | `line-official` | LINE公式アカウント | LINEヤフー株式会社 | `#06C755` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/communication/line-official.svg" width="40"> |
-| `relation` | Re:lation（リレーション） | 株式会社インゲージ | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/communication/relation.svg" width="40"> |
+| `relation` | Re:lation（リレーション） | 株式会社インゲージ | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/communication/relation.png" width="40"> |
 
 ### レビュー・サイト内検索・売上UP (4)
 
 | slug | 名称 | 提供会社 | カラー | プレビュー |
 |------|------|---------|--------|----------|
-| `ec-recommender` | ECレコメンダー | エクスプロージョン株式会社 | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/ec-recommender.png" width="40"> |
+| `ec-recommender` | ECレコメンダー | エクスプロージョン株式会社 | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/ec-recommender.jpg" width="40"> |
 | `ec-search` | ECサーチ | エクスプロージョン株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/ec-search.png" width="40"> |
-| `goq-smile` | GoQ Smile | 株式会社GoQSystem | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/goq-smile.svg" width="40"> |
-| `u-komi` | U-KOMI | 株式会社サブスパイア | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/u-komi.svg" width="40"> |
+| `goq-smile` | GoQ Smile | 株式会社GoQSystem | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/goq-smile.png" width="40"> |
+| `u-komi` | U-KOMI | 株式会社サブスパイア | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/review-tool/u-komi.png" width="40"> |
 
 ### 開発基盤・データ (5)
 

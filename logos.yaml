@@ -281,7 +281,7 @@
   color: "#0099CC"
   source: https://goqsystem.com/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/goqsystem.svg
+  file: logos/erp-bcart-app/goqsystem.png
 
 - slug: btone
   name: Btone（ビートーン）
@@ -299,7 +299,7 @@
   color: "#FF6600"
   source: https://www.cross-mall.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/cross-mall.jpg
+  file: logos/erp-bcart-app/cross-mall.png
 
 - slug: banking-erp
   name: BANKING ERP
@@ -308,7 +308,7 @@
   color: "#003366"
   source: https://www.smile-works.co.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/banking-erp.svg
+  file: logos/erp-bcart-app/banking-erp.png
 
 - slug: cammacs
   name: キャムマックス
@@ -335,7 +335,7 @@
   color: "#FFA500"
   source: https://www.smile-works.co.jp/
   license: trademark-fair-use
-  file: logos/erp-bcart-app/smileworks.svg
+  file: logos/erp-bcart-app/smileworks.png
 
 - slug: onescloset
   name: One'sCloset
@@ -374,7 +374,7 @@
   color: "#0085CA"
   source: https://www.cdata.com/jp/arc/
   license: trademark-fair-use
-  file: logos/eai/cdata-arc.svg
+  file: logos/eai/cdata-arc.png
 
 - slug: teps
   name: TēPs（テープス）
@@ -441,7 +441,7 @@
   color: "#0099CC"
   source: https://www.logiless.com/
   license: trademark-fair-use
-  file: logos/inventory-wms/logiless.svg
+  file: logos/inventory-wms/logiless.png
 
 - slug: logizard-zero
   name: ロジザードZERO
@@ -486,7 +486,7 @@
   color: "#00A651"
   source: https://www.greenwich.co.jp/rakuraku-zaiko/
   license: trademark-fair-use
-  file: logos/inventory-wms/rakuraku-zaiko.svg
+  file: logos/inventory-wms/rakuraku-zaiko.png
 
 - slug: assist-tencho
   name: アシスト店長
@@ -547,7 +547,7 @@
   color: "#FF6600"
   source: https://np-kakebarai.com/
   license: trademark-fair-use
-  file: logos/payment/np-kakebarai.svg
+  file: logos/payment/np-kakebarai.png
 
 - slug: paid
   name: Paid（ペイド）
@@ -556,7 +556,7 @@
   color: "#E60012"
   source: https://paid.jp/
   license: trademark-fair-use
-  file: logos/payment/paid.svg
+  file: logos/payment/paid.png
 
 - slug: bcart-kakebarai
   name: Bカート掛け払い
@@ -565,7 +565,7 @@
   color: "#005BAC"
   source: https://mfkessai.co.jp/
   license: trademark-fair-use
-  file: logos/payment/bcart-kakebarai.svg
+  file: logos/payment/bcart-kakebarai.png
 
 - slug: kuroneko-kakebarai
   name: クロネコ掛け払い
@@ -592,7 +592,7 @@
   color: "#0066CC"
   source: https://www.paygent.co.jp/
   license: trademark-fair-use
-  file: logos/payment/paygent.svg
+  file: logos/payment/paygent.png
 
 - slug: kuroneko-webcollect
   name: クロネコwebコレクト
@@ -703,7 +703,7 @@
   color: "#DA1F26"
   source: https://www.post.japanpost.jp/yu_print/
   license: trademark-fair-use
-  file: logos/logistics/yu-print-r.svg
+  file: logos/logistics/yu-print-r.png
 
 - slug: sagawa-e-hiden
   name: e飛伝Ⅲ
@@ -712,7 +712,7 @@
   color: "#005BAC"
   source: https://www2.sagawa-exp.co.jp/service/sendingsupport/
   license: trademark-fair-use
-  file: logos/logistics/sagawa-e-hiden.svg
+  file: logos/logistics/sagawa-e-hiden.png
 
 - slug: japan-post
   name: 日本郵便
@@ -918,7 +918,7 @@
   color: "#FF6600"
   source: https://uchideno-kozuchi.com/
   license: trademark-fair-use
-  file: logos/crm-ma/uchideno-kozuchi.jpg
+  file: logos/crm-ma/uchideno-kozuchi.png
 
 # ============================================================
 # backoffice : 会計・労務
@@ -1007,7 +1007,7 @@
   color: "#0099CC"
   source: https://ingage.jp/relation/
   license: trademark-fair-use
-  file: logos/communication/relation.svg
+  file: logos/communication/relation.png
 
 # ============================================================
 # review-tool : レビュー / 売上UP / サイト内検索
@@ -1019,7 +1019,7 @@
   color: "#FF6600"
   source: https://u-komi.com/
   license: trademark-fair-use
-  file: logos/review-tool/u-komi.svg
+  file: logos/review-tool/u-komi.png
 
 - slug: ec-search
   name: ECサーチ
@@ -1037,7 +1037,7 @@
   color: "#0099CC"
   source: https://explosion.co.jp/ec-recommender/
   license: trademark-fair-use
-  file: logos/review-tool/ec-recommender.png
+  file: logos/review-tool/ec-recommender.jpg
 
 - slug: goq-smile
   name: GoQ Smile
@@ -1046,7 +1046,7 @@
   color: "#0099CC"
   source: https://goqsystem.com/
   license: trademark-fair-use
-  file: logos/review-tool/goq-smile.svg
+  file: logos/review-tool/goq-smile.png
 
 # ============================================================
 # dev : 開発基盤・データ
