@@ -176,7 +176,7 @@ bcart -> kintone: API連携
 | `desknets-neo` | desknet's NEO | 株式会社ネオジャパン | `#0066B3` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/desknets-neo.svg" width="40"> |
 | `garoon` | Garoon | サイボウズ株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/garoon.svg" width="40"> |
 | `google-workspace` | Google Workspace | Google LLC | `#4285F4` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/google-workspace.svg" width="40"> |
-| `kintone` | kintone | サイボウズ株式会社 | `#00A0E9` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/kintone.svg" width="40"> |
+| `kintone` | kintone | サイボウズ株式会社 | `#00A0E9` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/kintone.png" width="40"> |
 | `microsoft-365` | Microsoft 365 | Microsoft Corporation | `#D83B01` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/microsoft-365.svg" width="40"> |
 | `ms-teams` | Microsoft Teams | Microsoft Corporation | `#6264A7` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/ms-teams.svg" width="40"> |
 | `notion` | Notion | Notion Labs Inc. | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/groupware/notion.svg" width="40"> |
