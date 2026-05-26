@@ -125,7 +125,7 @@ bcart -> kintone: API連携
 | `logiless` | LOGILESS（ロジレス） | 株式会社ロジレス | `#0099CC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logiless.png" width="40"> |
 | `logimopro` | ロジモプロ | 株式会社清長 | `#FF6600` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logimopro.png" width="40"> |
 | `logizard-zero` | ロジザードZERO | ロジザード株式会社 | `#0066B3` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/logizard-zero.png" width="40"> |
-| `next-engine` | ネクストエンジン | NE株式会社 | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/next-engine.svg" width="40"> |
+| `next-engine` | ネクストエンジン | NE株式会社 | `#E60012` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/next-engine.png" width="40"> |
 | `rakuraku-zaiko` | らくらく在庫 | グリニッジ株式会社 | `#00A651` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/rakuraku-zaiko.png" width="40"> |
 | `tempostar` | TEMPOSTAR | SAVAWAY株式会社 | `#005BAC` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/inventory-wms/tempostar.svg" width="40"> |
 
@@ -247,7 +247,7 @@ bcart -> kintone: API連携
 | `qoo10` | Qoo10 | eBay Japan合同会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/qoo10.svg" width="40"> |
 | `rakuten-ichiba` | 楽天市場 | 楽天グループ株式会社 | `#BF0000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/rakuten-ichiba.svg" width="40"> |
 | `stores` | STORES | ストアーズ株式会社 | `#000000` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/stores.png" width="40"> |
-| `yahoo-shopping` | Yahoo!ショッピング | LINEヤフー株式会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/yahoo-shopping.svg" width="40"> |
+| `yahoo-shopping` | Yahoo!ショッピング | LINEヤフー株式会社 | `#FF0033` | <img src="https://cdn.jsdelivr.net/gh/craval-inc/cv-iconpack@main/logos/jp-mall/yahoo-shopping.png" width="40"> |
 
 ### 自社 (1)
 

@@ -432,7 +432,7 @@
   source: https://next-engine.net/
   press_kit: https://next-engine.net/about/logo/
   license: trademark-fair-use
-  file: logos/inventory-wms/next-engine.svg
+  file: logos/inventory-wms/next-engine.png
 
 - slug: logiless
   name: LOGILESS（ロジレス）
@@ -1115,7 +1115,7 @@
   color: "#FF0033"
   source: https://shopping.yahoo.co.jp/
   license: trademark-fair-use
-  file: logos/jp-mall/yahoo-shopping.svg
+  file: logos/jp-mall/yahoo-shopping.png
 
 - slug: amazon
   name: Amazon
